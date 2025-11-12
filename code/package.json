@@ -1,6 +1,7 @@
 {
   "name": "portfolio-site",
   "version": "0.1.0",
+  "author": "Srivastav <srisrivastav863@gmail.com",
   "private": true,
   "scripts": {
     "build": "next build",

@@ -21,13 +21,13 @@ export default function About() {
           <div className="glass-card p-8">
             <h3 className="text-2xl font-bold text-foreground mb-4">Professional Bio</h3>
             <p className="text-muted-foreground leading-relaxed">
-              I'm currently pursuing my B.Tech in Artificial Intelligence and Data Science (2021–2025).
-              I've learned the MERN Stack for full-stack web development and Data Structures & Algorithms (DSA) in Java.
+              I’m Srivastav — a B.Tech student specializing in AI & Data Science (class of 2025). I build
+              end-to-end web applications using the MERN stack and apply data analysis to validate ideas.
             </p>
             <p className="text-muted-foreground leading-relaxed mt-4">
-              At present, I'm expanding my expertise in Data Science, exploring machine learning algorithms, 
-              data analysis, and AI-driven solutions. Passionate about building intelligent applications that 
-              solve real-world problems.
+              Currently I focus on practical ML and data-driven features: preprocessing pipelines, model
+              prototyping, and integrating results into usable interfaces. I enjoy clean code and iterate
+              quickly from concept to demo.
             </p>
           </div>
 
@@ -35,16 +35,16 @@ export default function About() {
             <h3 className="text-2xl font-bold text-foreground mb-4">Education & Learning</h3>
             <div className="space-y-4">
               <div className="border-l-2 border-primary pl-4">
-                <p className="text-primary font-semibold">B.Tech in Artificial Intelligence and Data Science</p>
+                <p className="text-primary font-semibold">B.Tech — AI & Data Science</p>
                 <p className="text-sm text-muted-foreground">2021 - 2025</p>
               </div>
               <div className="border-l-2 border-accent pl-4">
                 <p className="text-primary font-semibold">MERN Stack Development</p>
-                <p className="text-sm text-muted-foreground">Full-stack web development</p>
+                <p className="text-sm text-muted-foreground">Full-stack web apps and APIs</p>
               </div>
               <div className="border-l-2 border-primary pl-4">
                 <p className="text-primary font-semibold">Data Structures & Algorithms</p>
-                <p className="text-sm text-muted-foreground">Java programming</p>
+                <p className="text-sm text-muted-foreground">Problem solving and efficient code</p>
               </div>
             </div>
           </div>

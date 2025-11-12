@@ -19,7 +19,7 @@ export default function Contact() {
     <section id="contact" className="relative py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-2xl mx-auto">
         <h2 className="text-4xl font-bold mb-6 gradient-text text-center">Get In Touch</h2>
-        <p className="text-center text-muted-foreground mb-12">Let's create something intelligent together.</p>
+  <p className="text-center text-muted-foreground mb-12">Interested in collaborating? Tell me about your idea and timeline.</p>
 
         <div className="glass-card p-8">
           <form onSubmit={handleSubmit} className="space-y-6">

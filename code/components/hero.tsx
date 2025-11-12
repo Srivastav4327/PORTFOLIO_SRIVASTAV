@@ -68,15 +68,16 @@ export default function Hero() {
 
       <div className="relative z-20 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="animate-slide-in-left">
-          <h1 className="text-5xl sm:text-7xl font-bold mb-6 gradient-text">Hi, I am Srivastav</h1>
+          <h1 className="text-5xl sm:text-7xl font-bold mb-6 gradient-text">Hi — I’m Srivastav</h1>
           <p className="text-xl sm:text-2xl text-muted-foreground mb-4">
-            AI & Data Science Student | MERN Stack Developer | Tech Enthusiast
+            B.Tech student focused on AI & Data Science. I design and build full‑stack web apps (MERN) and
+            simple ML prototypes that turn data into practical insights.
           </p>
         </div>
 
         <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-12 animate-slide-in-right">
-          Pursuing B.Tech in AI & Data Science, building full-stack applications with MERN Stack, 
-          and exploring the fascinating world of Data Science and Machine Learning.
+          Currently in my final year, I’ve shipped projects like a rental marketplace and a data analysis
+          dashboard — I enjoy taking an idea from a dataset to a working product and iterating fast.
         </p>
 
         <div className="flex gap-4 justify-center flex-wrap">
